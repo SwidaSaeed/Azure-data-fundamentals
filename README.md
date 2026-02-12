@@ -86,4 +86,5 @@ Completed practical Azure labs including:
 ---
 
 ## 📎 Full Report
+[Download Workbook PDF](https://b2wcompletetraining057-my.sharepoint.com/:w:/r/personal/swidasaeed_bootcamp_justit_co_uk/_layouts/15/Doc.aspx?sourcedoc=%7B8B1E438C-C55F-4CF5-8398-C1C60538CAF0%7D&file=Swida_Saeed_Data_Technician_Workbook_Week_4%20-.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1770900322415&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=9c361171-a3d3-46ea-8dc9-4a01c964823b&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=b12f1179-3301-4ee1-adf1-f7819ae76172)
 
