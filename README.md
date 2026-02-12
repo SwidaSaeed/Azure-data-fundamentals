@@ -67,9 +67,9 @@ Relationships:
 
 Completed practical Azure labs including:
 
-- Explore relational data in Azure
-- Explore non-relational data
-- Explore data analytics
+- Explore relational data in Azure  (See image folder)
+- Explore non-relational data   (See image folder)
+- Explore data analytics (See image folder)
 
 ---
 
